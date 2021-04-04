@@ -1,1 +1,4 @@
-print(3+4)
+num1 = int(input("entre el num1: "))
+num2 = int(input("entre el num2: "))
+
+print(num1+num2)
